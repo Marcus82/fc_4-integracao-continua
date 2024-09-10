@@ -27,3 +27,4 @@ docker run --rm teste
 == Gerando build da imagem via CI
 git add .
 git commit -m "build: add dockerfile to build docker build"
+[github.com/marketplace/actions/build-and-push-docker-images](https://github.com/marketplace/actions/build-and-push-docker-images)
