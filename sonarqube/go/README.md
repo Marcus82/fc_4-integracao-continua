@@ -48,3 +48,11 @@ sonar-scanner \
   
 4) Trabalhando com cobertura de código
 5) Cobrindo código Javascript
+6) Preparando ambiente para SonarCloud
+[sonarcloud.io](https://www.sonarsource.com/products/sonarcloud/)
+
+sonarqube/go > git init
+sonarqube/go > git status
+
+git add .
+git commit -m "feat: add sum function"
